@@ -34,4 +34,3 @@ def format_multiplication_table(size: int = 10) -> str:
 
 if __name__ == "__main__":
     print(format_multiplication_table())
-

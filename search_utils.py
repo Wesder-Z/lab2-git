@@ -34,4 +34,3 @@ def binary_search(values: Sequence[int], target: int) -> int | None:
             right = middle - 1
 
     return None
-

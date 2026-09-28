@@ -22,4 +22,3 @@ def prime_numbers_up_to(limit: int = 100) -> list[int]:
 
 if __name__ == "__main__":
     print(*prime_numbers_up_to())
-
